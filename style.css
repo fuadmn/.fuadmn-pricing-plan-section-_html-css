@@ -132,3 +132,8 @@ small {
 
 
 
+@media screen and (min-width: 870px){
+    .container {
+       flex-direction: row;
+    }
+}
